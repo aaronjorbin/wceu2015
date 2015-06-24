@@ -1,0 +1,66 @@
+The <em>Future</em> of <em>W</em>ord<em>P</em>ress Build Tools
+*story*
+<!-- Time To Build -->
+3724 Days
+689 Days
+15%
+Build Tools are First Class
+Unit Tests are First Class
+Tools are not as important as our Code
+Tools are our code
+<!-- Philosophy -->
+<em>Philosophy</em> of Tooling
+Make <em>Contributing</em> Code Easy
+Bad Patches Make More Work
+Make Contributing <em>Quality</em> Code Easy
+Bad Patches Make More Work
+Make Contributing <em>Quality</em> Code <em>as Easy as it Should Be</em>
+Barriers Only On Purpose
+<!-- Bye Bye SASS -->
+Sass Means Builds
+No&nbsp;Build No&nbsp;Code
+Sass Means Double Knowledge
+What are the alternatives?
+Less
+Same Problems, we just gain browser baed conversions.
+What if we just used CSS?
+CSS Custom Properties for Cascading Variables
+CSS Variables
+Who Supports it?
+Firefox&nbsp;=&nbsp;YES
+Darken, Lighten, 
+CSS4 color()
+Who Supports it?
+No One!
+PostCSS
+Builds needed for some browsers
+It is CSS
+The pieces that we need
+Already used in core
+AutoPrefixer
+RTLCSS
+More Uses
+Linting
+REMi
+<!--    -->
+External Tools/ Systems
+scrutinizer-ci
+codeclimate
+TravisCI
+<!-- CI Server -->
+Phantomos on Default Themes
+CSS Statistics, graphed over time
+Nightly Unit Tests with a bigger Matrix
+DB Charsets
+MYSQL Versions
+<!-- Half Baked Ideas -->
+Dev Plugins in Core
+Remove on Build
+Twenty Ten Forced Core Devs to be Theme Devs
+Force Core Devs to be Plugin Devs
+More Example Plugins
+Better Example Plugins
+Our Bill Of Rights Guarantees Right to Learn 
+You learn from Core
+Core Learns from you
+Aaron&nbsp;Jorbin<br/><br />aaron.jorb.in<br/>@aaronjorbin<br/>[[Thanks for following along.  Come say Hi! #wcphilly]]
