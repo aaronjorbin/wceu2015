@@ -1,12 +1,18 @@
 The <em>Future</em> of <em>W</em>ord<em>P</em>ress Build Tools
-*story*
+<!-- Story -->
+Every search begins with beginner's luck. And every search ends with the victor being severely tested
 <!-- Time To Build -->
+4,413 Days 
+105,912	Hours
+6,354,720 Minutes
+381,283,200	Seconds
 3724 Days
 689 Days
 15%
 Build Tools are First Class
 Unit Tests are First Class
 Tools are not as important as our Code
+<strike>Tools are not as important as our Code</strike>
 Tools are our code
 <!-- Philosophy -->
 <em>Philosophy</em> of Tooling
@@ -22,13 +28,13 @@ No&nbsp;Build No&nbsp;Code
 Sass Means Double Knowledge
 What are the alternatives?
 Less
-Same Problems, we just gain browser baed conversions.
+Same Problems, we can gain browser based conversions.
 What if we just used CSS?
 CSS Custom Properties for Cascading Variables
 CSS Variables
-Who Supports it?
-Firefox&nbsp;=&nbsp;YES
-Darken, Lighten, 
+<em>Who</em> Supports it?
+Firefox&nbsp;=&nbsp;<em>YES</em>
+Darken, Lighten, etc. 
 CSS4 color()
 Who Supports it?
 No One!
@@ -41,26 +47,33 @@ AutoPrefixer
 RTLCSS
 More Uses
 Linting
-REMi
-<!--    -->
-External Tools/ Systems
-scrutinizer-ci
-codeclimate
-TravisCI
+REM
+<!-- Tests -->
+<em>Quality</em> Code
+Automated Tests
+JavaScript Features Need JavaScript Tests
+JavaScript Tests Need Browser Testing
+Travis Tests All Patches
+Slack DM with Results
+Failing Tests are OK
+<!-- There is a scene in The Lion in Winter when three Brothers are waiting execution -->
+<!-- One Says "As if it matters how a man falls down", and another responds , 'When the fall's all that's left, it matters a great deal.'" -->
+Test Speed is Decent
 <!-- CI Server -->
-Phantomos on Default Themes
-CSS Statistics, graphed over time
 Nightly Unit Tests with a bigger Matrix
 DB Charsets
 MYSQL Versions
 <!-- Half Baked Ideas -->
+Half Baked Ideas
+Phantomos on Default Themes
+CSS Statistics, graphed over time
+37 Unique Media Queries
 Dev Plugins in Core
 Remove on Build
-Twenty Ten Forced Core Devs to be Theme Devs
-Force Core Devs to be Plugin Devs
 More Example Plugins
 Better Example Plugins
 Our Bill Of Rights Guarantees Right to Learn 
 You learn from Core
 Core Learns from you
 Aaron&nbsp;Jorbin<br/><br />aaron.jorb.in<br/>@aaronjorbin<br/>[[Thanks for following along.  Come say Hi! #wcphilly]]
+
